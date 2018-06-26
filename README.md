@@ -1,3 +1,5 @@
+(I forked this repo as a guide to the Sandi Metz's POODR 3 day course I took in May, 2018 in North Carolina.)
+
 # 99 Bottles
 
 ## The Code
